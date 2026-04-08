@@ -1,3 +1,7 @@
+# Faeris
+ZZZ Disk Drive Scorer \
+Use in tandem with FairyVAC (will change name later)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
